@@ -1,0 +1,4 @@
+Al momento de loguearse se compara lo ingresado con la Base de Datos al dar click en ingresar si es admin abrira 
+las pestañas corresspondientes al administrador
+
+se puede cambiar la contraseña creando un nuevo jframe y que se llame a este con el boton cambiar contraseña
